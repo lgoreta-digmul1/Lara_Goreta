@@ -1,0 +1,32 @@
+p {
+	color: blue;
+	font-family:Constantia, "Lucia Bright", "DejaVu Serif", Georgia, "serif";
+	font-size: 16px;
+	line-height: 18px;
+	width: 600px;
+	background-color: antiquewhite;
+	padding: 20px;
+}
+h1, h2 {
+	font-family: Gotham, "Helvica Neue", Helvetica, Arial, "sans-serif"
+	color: cadethblue;
+}
+body{
+	background-color: lightblue;
+	
+}
+a:link {
+	color:black;
+	background-color: white;
+	padding: 5px;
+	line-height: 40px;
+	border:1px solid #000000;
+	
+}
+a:hover{
+	background-color: darkgrey;
+	
+}
+img {
+	height: 400px;
+}
